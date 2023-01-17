@@ -37,6 +37,10 @@ table {
 	margin: 15px auto 0px auto;
 }
 
+td {
+	text-align: center;
+}
+
 footer {
 	background-color: #000080;
 	color: white;
