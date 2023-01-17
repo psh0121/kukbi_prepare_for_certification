@@ -18,7 +18,7 @@
 <body>
 	<header>
 		<div>
-			<h2>회원목록조회/수정</h2>
+			<h2>쇼핑몰 회원관리 ver 1.0</h2>
 		</div>
 	</header>
 	
