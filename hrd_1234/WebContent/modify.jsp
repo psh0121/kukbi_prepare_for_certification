@@ -96,7 +96,7 @@ catch(Exception e)
 					</tr>
 					<tr>
 						<th>회원주소</th>
-						<td><input type="text" id="address" name="address" value=<%= address %>></td>
+						<td><input type="text" id="address" name="address" value="<%= address %>"></td>
 					</tr>
 					<tr>
 						<th>가입일자</th>
